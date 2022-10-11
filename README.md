@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer from Vietnam </h3>
 
 - 👨🏻‍💻 I work at **Comartek**
-- ✋ I have a [small blog](https://james-ng.dev) to share about coding, and practise writing English. Plus, I also build my own [Youtube Channel](https://www.youtube.com/channel/UCVHJLTcHjReUXMHy5gUptSQ) where I share about my life, coding,...
 - 🎮 Feel free to explore around my github, you might find out [something fun](https://github.com/JamesNgDev?tab=repositories)
 
 
